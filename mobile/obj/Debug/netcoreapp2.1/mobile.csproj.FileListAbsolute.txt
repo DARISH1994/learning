@@ -1,0 +1,11 @@
+C:\ImageProcessing versions\git\learning\mobile\bin\Debug\netcoreapp2.1\mobile.deps.json
+C:\ImageProcessing versions\git\learning\mobile\bin\Debug\netcoreapp2.1\mobile.runtimeconfig.json
+C:\ImageProcessing versions\git\learning\mobile\bin\Debug\netcoreapp2.1\mobile.runtimeconfig.dev.json
+C:\ImageProcessing versions\git\learning\mobile\bin\Debug\netcoreapp2.1\mobile.dll
+C:\ImageProcessing versions\git\learning\mobile\bin\Debug\netcoreapp2.1\mobile.pdb
+C:\ImageProcessing versions\git\learning\mobile\obj\Debug\netcoreapp2.1\mobile.csprojAssemblyReference.cache
+C:\ImageProcessing versions\git\learning\mobile\obj\Debug\netcoreapp2.1\mobile.csproj.CoreCompileInputs.cache
+C:\ImageProcessing versions\git\learning\mobile\obj\Debug\netcoreapp2.1\mobile.AssemblyInfoInputs.cache
+C:\ImageProcessing versions\git\learning\mobile\obj\Debug\netcoreapp2.1\mobile.AssemblyInfo.cs
+C:\ImageProcessing versions\git\learning\mobile\obj\Debug\netcoreapp2.1\mobile.dll
+C:\ImageProcessing versions\git\learning\mobile\obj\Debug\netcoreapp2.1\mobile.pdb
